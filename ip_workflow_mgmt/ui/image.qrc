@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>../images/ui/checkbox.png</file>
+    <file>../images/ui/down_arrow.png</file>
+    <file>../images/ui/handle.png</file>
+    <file>../images/ui/pixi_logo_new.png</file>
+  </qresource>
+</RCC>
